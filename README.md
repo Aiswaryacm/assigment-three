@@ -5,3 +5,4 @@ i am using mongodb compass as my database
 we have to signup first and all the datas are stored in database by using that data login is done
 i had implemented a delete option to delete the products 
 new products can be inserted in Add products
+due to size issue i had removed nodu modules from the products forlder
